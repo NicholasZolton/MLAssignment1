@@ -14,4 +14,4 @@ Then, simply run `python ./mlassignment1/main.py` to run the project.
 
 # Dataset
 
-Credit to https://archive.ics.uci.edu/dataset/994/micro+gas+turbine+electrical+energy+prediction for the dataset.
+Credit to https://archive.ics.uci.edu/dataset/186/wine+quality for the dataset.
